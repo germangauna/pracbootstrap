@@ -5,3 +5,16 @@
 /* .z-ger {
     z-index: 1;
 } */
+
+footer .texto {
+    background-color: brown;
+}
+
+footer .redes {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
