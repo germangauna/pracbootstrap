@@ -1,5 +1,5 @@
 .bg-ger {
-    background-color: red;
+    background-color: rgb(67, 178, 212);
 }
 
 /* .z-ger {
@@ -7,14 +7,27 @@
 } */
 
 footer .texto {
-    background-color: brown;
+    background-color: rgb(79, 42, 212);
+    color: black;
+    font-size:large;
+    font-weight: bold;
 }
 
 footer .redes {
-    background-color: aqua;
+    background-color: rgb(32, 129, 204);
     display: flex;
     flex-direction: column;
-    justify-content: center;
+   list-style-type: none;
     align-items: center;
+    
+   
+    
+}
+
+footer li a {
+    text-decoration: none;
+    color: black;
+    font-size:large;
+    font-weight: bold;
 }
 
