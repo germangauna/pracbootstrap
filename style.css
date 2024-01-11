@@ -33,3 +33,9 @@ footer li a {
     font-weight: bold;
 }
 
+.nav-link {
+    color: rgb(230, 167, 167);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
